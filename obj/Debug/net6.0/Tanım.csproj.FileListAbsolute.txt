@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\bin\Debug\net6.0\Tanım.exe
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\bin\Debug\net6.0\Tanım.deps.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\bin\Debug\net6.0\Tanım.runtimeconfig.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\bin\Debug\net6.0\Tanım.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\bin\Debug\net6.0\Tanım.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\refint\Tanım.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\Tanım.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Diziler\Tanım\obj\Debug\net6.0\ref\Tanım.dll
